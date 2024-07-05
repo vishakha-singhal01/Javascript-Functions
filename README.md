@@ -10,10 +10,11 @@ A **function declaration** defines a function with the specified parameters. Thi
 function add(a, b) {
   return a + b;
 }
+```
 
 Function declarations are hoisted, meaning they can be called before they are defined in the code.
 
-## 2. Function Expression
+### 2. Function Expression
 
 A **function expression** defines a function inside an expression, and it can be anonymous or named.
 
@@ -199,5 +200,5 @@ These are some of the most common types of functions in JavaScript. Each type se
 
 Happy coding!
 
-![Connect on Github](https://github.com/vishakha-singhal01)
-![Connect on Linkedin](https://www.linkedin.com/in/vishakha-singhal-18983b1bb/)
+- [Connect on Github](https://github.com/vishakha-singhal01)
+- [Connect on Linkedin](https://www.linkedin.com/in/vishakha-singhal-18983b1bb/)
